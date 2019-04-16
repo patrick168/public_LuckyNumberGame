@@ -1,0 +1,40 @@
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe.config
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.pdb
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csprojAssemblyReference.cache
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Form1.resources
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Properties.Resources.resources
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.GenerateResource.cache
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.CoreCompileInputs.cache
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.exe
+E:\Program design\NB program Tung Sample\TungSampleCode\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.pdb
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe.config
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.pdb
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csprojAssemblyReference.cache
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Form1.resources
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Properties.Resources.resources
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.GenerateResource.cache
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.CoreCompileInputs.cache
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.exe
+E:\Program design\NB program Tung Sample\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.pdb
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe.config
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\bin\Debug\GuestNumberAdv2.pdb
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csprojAssemblyReference.cache
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Form1.resources
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.Properties.Resources.resources
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.GenerateResource.cache
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.csproj.CoreCompileInputs.cache
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\LuckNumberGame\GuestNumberAdv2\obj\Debug\GuestNumberAdv2.pdb
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.exe.config
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.pdb
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.csprojAssemblyReference.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.Form1.resources
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.Properties.Resources.resources
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.csproj.GenerateResource.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.csproj.CoreCompileInputs.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.pdb

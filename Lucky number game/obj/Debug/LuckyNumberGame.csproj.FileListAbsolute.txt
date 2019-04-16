@@ -1,0 +1,10 @@
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.exe.config
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\bin\Debug\GuestNumberAdv2.pdb
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\LuckyNumberGame.csprojAssemblyReference.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.Form1.resources
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.Properties.Resources.resources
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\LuckyNumberGame.csproj.GenerateResource.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\LuckyNumberGame.csproj.CoreCompileInputs.cache
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.exe
+D:\Program Design\Tung works\public_LuckyNumberGame\Lucky number game\obj\Debug\GuestNumberAdv2.pdb
